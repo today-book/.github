@@ -142,14 +142,3 @@ Copyright (c) 2025
 
 Issue 또는 Pull request 환영합니다 :)  
 Question? → Discussions!
-
----
-
-원하신다면 다음도 바로 만들어 드릴 수 있습니다👇
-	•	🎨 아키텍처 다이어그램 (백엔드/데이터 파이프라인 포함)
-	•	🧱 Docker Compose 예시 파일
-	•	📊 ERD & Kafka Topic 설계
-	•	🔐 카카오 로그인 Flow 문서
-	•	🎯 RAG 파이프라인 상세 문서
-
-어떤 부분부터 더 디테일하게 확장해볼까요?
